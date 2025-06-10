@@ -608,8 +608,8 @@ async def main():
         print("Використання:")
         print("python3 main.py <шлях_до_репозиторію> <папка_для_PDF>")
         print("\nПриклади:")
-        print("python3 main.py /Users/serhiitsybulnik/cyber-apocalypse-2025/forensics/ writeups_1")
-        print("python3 main.py /Users/serhiitsybulnik/business-ctf-2025/forensics my_writeups")
+        print("python3 main.py /Users/username/cyber-apocalypse-2025/forensics/ writeups_1")
+        print("python3 main.py /Users/username/business-ctf-2025/forensics my_writeups")
         sys.exit(1)
 
     # Перевіряємо залежності
